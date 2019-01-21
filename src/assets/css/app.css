@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.Controller button {
+  margin: 20px;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  size: 25px
+}
