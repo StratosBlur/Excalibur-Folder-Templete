@@ -1,4 +1,4 @@
-# Excalibur React + Redux Folder Structure Templete 🤣
+#  React + Redux Folder Structure Templete 🤣
 My favorite folder structure With the addition of Duck structure. But it's okay if you don't like it Or if you can recommend it, it will be very good by opening all pull requests.
 
 ## Include ✌
